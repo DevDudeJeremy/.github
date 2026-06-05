@@ -21,8 +21,7 @@ read end to end, and case studies for the products I build for clients.
 |---|---|---|
 | **Shop Fusion** | Full-stack e-commerce platform — *open source* | [ecommerce-platform »](https://github.com/DevDudeJeremy/ecommerce-platform) |
 | **Inkstack** | Django blogging engine — *open source* | [blog »](https://github.com/DevDudeJeremy/blog) |
-| **Neighborhood Tools** | Local tools platform — *case study* | [neighborhood-tools »](https://github.com/DevDudeJeremy/neighborhood-tools) |
-| **PageBoost** | Site performance & SEO product — *case study* | [pageboost »](https://github.com/DevDudeJeremy/pageboost) |
+| **Neighborhood Tools** | Peer-to-peer tool sharing — *case study* | [neighborhood-tools »](https://github.com/DevDudeJeremy/neighborhood-tools) |
 | **Docs RAG** | RAG assistant powering devdudejeremy.com — *case study* | [docs-rag »](https://github.com/DevDudeJeremy/docs-rag) |
 
 ## Get in touch
