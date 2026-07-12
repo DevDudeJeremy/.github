@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a reproducible problem in a DevDudeJeremy open-source project.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to provide a focused, reproducible report. Do not include secrets or private data.
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or project
+      description: Which DevDudeJeremy repository or project contains the problem?
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Include the expected behavior, actual behavior, and the smallest reproducible sequence.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant browser, operating system, runtime, package, or deployment details.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Sanitized logs, screenshots, or links that help explain the problem.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and pull requests.
+          required: true
+        - label: This is not a security vulnerability or a request containing sensitive information.
+          required: true
