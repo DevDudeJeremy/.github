@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Jeremy Warren — DevDudeJeremy</title>
+  <desc id="desc">Web systems, AI workflows, and reliable delivery from Hendersonville, North Carolina.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121011"/>
+      <stop offset="0.62" stop-color="#1e1a1b"/>
+      <stop offset="1" stop-color="#300a16"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.83" cy="0.48" r="0.55">
+      <stop offset="0" stop-color="#ca0034" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#ca0034" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="600" rx="34" fill="url(#background)"/>
+  <rect width="1600" height="600" rx="34" fill="url(#glow)"/>
+  <rect width="1600" height="600" rx="34" fill="url(#grid)"/>
+  <text x="100" y="128" fill="#ef315a" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="700" letter-spacing="5">DEVDUDEJEREMY</text>
+  <text x="94" y="245" fill="#f8f5f2" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="86" font-weight="760" letter-spacing="-3">Jeremy Warren</text>
+  <text x="100" y="320" fill="#d0c8c4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="32" font-weight="500">Web systems · AI workflows · reliable delivery</text>
+  <text x="100" y="382" fill="#9f9793" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23">Hendersonville, North Carolina  /  devdudejeremy.com</text>
+  <g transform="translate(1100 65) scale(.9)">
+    <rect width="512" height="512" rx="112" fill="#1d1a1a" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+    <path d="M83 126C139 100 191 111 229 143C255 165 277 181 309 181" fill="none" stroke="#6b6764" stroke-width="16" stroke-linecap="round"/>
+    <path d="M72 440V389L156 302L224 359L315 233L440 388V440Z" fill="#ca0034"/>
+    <circle cx="362" cy="156" r="72" fill="#f5f2ee"/>
+  </g>
+  <g transform="translate(100 458)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="650" letter-spacing="1.2">
+    <rect width="226" height="64" rx="16" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="24" y="40" fill="#f2eeeb">FULL-STACK WEB</text>
+    <g transform="translate(246)">
+      <rect width="244" height="64" rx="16" fill="#ffffff" fill-opacity="0.065" stroke="#ffffff" stroke-opacity="0.1"/>
+      <text x="24" y="40" fill="#f2eeeb">AI + RAG SYSTEMS</text>
+    </g>
+    <g transform="translate(510)">
+      <rect width="254" height="64" rx="16" fill="#ca0034" fill-opacity="0.18" stroke="#ef315a" stroke-opacity="0.4"/>
+      <text x="24" y="40" fill="#f7d7de">ACCESSIBLE DELIVERY</text>
+    </g>
+  </g>
+  <rect x="0" y="570" width="1600" height="30" fill="#ca0034"/>
+</svg>
