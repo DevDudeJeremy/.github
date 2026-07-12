@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://devdudejeremy.com
+    about: Report suspected vulnerabilities privately rather than opening a public issue.
+  - name: Project and consulting inquiry
+    url: https://devdudejeremy.com
+    about: Discuss custom web applications, AI systems, or ongoing software support.
