@@ -1,0 +1,38 @@
+name: Feature proposal
+description: Propose a focused improvement to a DevDudeJeremy open-source project.
+title: "[Proposal]: "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or project
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Describe the user or operator need before describing a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed direction
+      description: Explain the smallest useful change and any alternatives you considered.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Compatibility and impact
+      description: Note migration, accessibility, security, performance, or maintenance implications.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and pull requests.
+          required: true
+        - label: I am willing to help test or document this change.
+          required: false
