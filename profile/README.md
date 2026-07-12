@@ -1,31 +1,67 @@
-# Jeremy Warren — devdudejeremy
+<p align="center">
+  <a href="https://devdudejeremy.com">
+    <img src="./assets/devdudejeremy-hero.svg" alt="Jeremy Warren — thoughtful web applications, grounded AI, and durable developer systems" width="100%">
+  </a>
+</p>
 
-Web developer in Hendersonville, NC. Building the web, one project at a time.
+<p align="center">
+  <strong>Jeremy Warren · Hendersonville, North Carolina</strong><br>
+  Web applications, grounded AI assistants, and developer workflows built to hold up after launch.
+</p>
 
-**Portfolio, case studies & contact → [devdudejeremy.com](https://devdudejeremy.com)**
+<p align="center">
+  <a href="https://devdudejeremy.com"><strong>Explore my work</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/DevDudeJeremy?tab=repositories">Browse the code</a>
+</p>
 
-This organization is a curated showcase of my work — open-source projects you can
-read end to end, and case studies for the products I build for clients.
+---
 
-## Ways we could work together
+## Useful software, built with care
 
-- **Custom websites & web apps** — full-stack builds, front end through API and data layer
-- **RAG agents** — retrieval-augmented AI assistants grounded in your own content
-- **Custom Claude skills + plugins** — tooling and automation for AI-assisted workflows
-- **Website maintenance** — keeping sites fast, current, and secure
-- **Hourly engagements** — focused help when you need an extra set of hands
+I design and build dependable digital products for organizations that need more than a polished front end. That can mean a focused web application, an AI assistant grounded in private knowledge, a safer AI-assisted development workflow, or steady maintenance for software that is already serving people.
 
-## Featured projects
+This organization is the public workshop behind that work: complete open-source projects where the code can speak for itself, alongside concise case studies for production systems whose source remains private.
 
-| Project | What it is | Link |
+### What I build
+
+| Capability | What that looks like |
+|---|---|
+| **Custom web applications** | Accessible interfaces, maintainable back ends, integrations, payments, and data models designed as one coherent system. |
+| **RAG and AI assistants** | Retrieval pipelines and assistants grounded in the documents, policies, and knowledge that matter to your organization. |
+| **Codex + Claude workflow systems** | Independent, governed environments that help AI coding tools understand repositories, verify changes, and stay inside clear operational boundaries. |
+| **Maintenance and modernization** | Focused improvements to performance, reliability, security posture, dependencies, and long-lived application code. |
+
+## Featured work
+
+| Project | Focus | Availability |
 |---|---|---|
-| **Shop Fusion** | Full-stack e-commerce platform — *open source* | [ecommerce-platform »](https://github.com/DevDudeJeremy/ecommerce-platform) |
-| **Inkstack** | Django blogging engine — *open source* | [blog »](https://github.com/DevDudeJeremy/blog) |
-| **Neighborhood Tools** | Peer-to-peer tool sharing — *case study* | [neighborhood-tools »](https://github.com/DevDudeJeremy/neighborhood-tools) |
-| **Docs RAG** | RAG assistant powering devdudejeremy.com — *case study* | [docs-rag »](https://github.com/DevDudeJeremy/docs-rag) |
+| [**Shop Fusion**](https://github.com/DevDudeJeremy/ecommerce-platform) | Full-stack Django commerce platform with Stripe payments, real-time features, and production-minded delivery. | Open source |
+| [**Inkstack**](https://github.com/DevDudeJeremy/blog) | Django publishing engine with a practical authoring experience and clean content architecture. | Open source |
+| [**Neighborhood Tools**](https://github.com/DevDudeJeremy/neighborhood-tools) | Peer-to-peer tool sharing designed around local trust, useful inventory, and a straightforward member experience. | Case study · [Live site](https://neighborhoodtools.org) |
+| [**Docs RAG**](https://github.com/DevDudeJeremy/docs-rag) | Retrieval-augmented assistant that helps visitors explore the work and documentation behind devdudejeremy.com. | Case study |
 
-## Get in touch
+## How I work
 
-- 🌐 [devdudejeremy.com](https://devdudejeremy.com)
-- 📍 Hendersonville, NC
-- 💼 Available for select client work and full-time roles
+Good software should be understandable by the people who inherit it. My work favors:
+
+- **Clarity over novelty** — technology choices should earn their place.
+- **Evidence over assumptions** — test the behavior that users and operators actually depend on.
+- **Accessible, responsive interfaces** — the core experience should work for more people, on more devices.
+- **Secure defaults and explicit boundaries** — especially when AI, credentials, payments, or customer data are involved.
+- **Durable handoff** — documentation, automation, and maintainable code are part of the product.
+
+## Core toolkit
+
+**Application engineering:** Python, Django, JavaScript, TypeScript, React, Next.js, PostgreSQL, REST APIs<br>
+**AI systems:** retrieval-augmented generation, knowledge pipelines, AI assistants, Codex and Claude workflow design<br>
+**Delivery:** GitHub Actions, Cloudflare, Vercel, testing, observability, performance, and ongoing maintenance
+
+## Have something worth building?
+
+If you need a new product, a grounded AI capability, or a thoughtful second set of hands on an existing system, I would be glad to hear what you are working on.
+
+<p align="center">
+  <a href="https://devdudejeremy.com"><strong>Start a conversation at devdudejeremy.com →</strong></a><br>
+  <sub>Available for select client work and full-time opportunities · Hendersonville, NC</sub>
+</p>
