@@ -36,6 +36,7 @@ This organization is the public workshop behind that work: complete open-source 
 
 | Project | Focus | Availability |
 |---|---|---|
+| [**The Warren**](https://github.com/DevDudeJeremy/warren) | A Claude Code plugin of skills, chain-command pipelines, and model-routed agents that keep AI-assisted development inside verified, governed boundaries. | Open source |
 | [**Shop Fusion**](https://github.com/DevDudeJeremy/ecommerce-platform) | Full-stack Django commerce platform with Stripe payments, real-time features, and production-minded delivery. | Open source |
 | [**Inkstack**](https://github.com/DevDudeJeremy/blog) | Django publishing engine with a practical authoring experience and clean content architecture. | Open source |
 | [**Neighborhood Tools**](https://github.com/DevDudeJeremy/neighborhood-tools) | Peer-to-peer tool sharing designed around local trust, useful inventory, and a straightforward member experience. | Case study · [Live site](https://neighborhoodtools.org) |
