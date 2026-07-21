@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">DevDudeJeremy mark</title>
+  <desc id="desc">A dark rounded square containing a red mountain, a pale moon, and a gray trail.</desc>
+  <rect width="512" height="512" rx="112" fill="#1d1a1a"/>
+  <path d="M83 126C139 100 191 111 229 143C255 165 277 181 309 181" fill="none" stroke="#6b6764" stroke-width="16" stroke-linecap="round"/>
+  <path d="M72 440V389L156 302L224 359L315 233L440 388V440Z" fill="#ca0034"/>
+  <circle cx="362" cy="156" r="72" fill="#f5f2ee"/>
+</svg>
