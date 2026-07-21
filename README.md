@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://devdudejeremy.com">
-    <img src="profile/assets/devdudejeremy-hero.svg" alt="Jeremy Warren — thoughtful web applications, grounded AI, and durable developer systems" width="100%">
-  </a>
+  <img src="profile/assets/devdudejeremy-hero.svg" alt="DevDudeJeremy editorial linocut masthead in warm white, black, and crimson" width="100%">
 </p>
 
 # DevDudeJeremy on GitHub
