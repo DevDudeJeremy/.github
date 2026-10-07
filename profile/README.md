@@ -14,7 +14,15 @@ DevDudeJeremy is Jeremy Warren's independent product engineering practice. I bui
 
 ## Selected systems
 
-### 01 / Neighborhood Tools
+### 01 / PropsMath
+
+**Live product · Sports analytics**
+
+A sports analytics platform whose forecast model publishes timestamped win probabilities for MMA and college football before each event, then grades every one in public, misses included.
+
+[Visit PropsMath](https://propsmath.com/) · [Read how a PropsMath forecast is built](https://propsmath.com/methodology) · [Open the PropsMath public record](https://propsmath.com/track-record)
+
+### 02 / Neighborhood Tools
 
 **Live product case study · Web application**
 
@@ -22,7 +30,7 @@ A peer-to-peer tool-sharing experience that turns borrowing, handoff, deposits, 
 
 [Visit Neighborhood Tools](https://neighborhoodtools.org/) · [Read the Neighborhood Tools case study](https://devdudejeremy.com/projects/neighborhood-tools/) · [Review the Neighborhood Tools project notes](https://github.com/DevDudeJeremy/neighborhood-tools)
 
-### 02 / The Warren
+### 03 / The Warren
 
 **Open source · v1.0 · Developer tooling**
 
@@ -30,7 +38,7 @@ A workflow toolkit for Claude Code that packages reusable skills, chained comman
 
 [Explore The Warren source](https://github.com/DevDudeJeremy/warren) · [Review The Warren v1.0 release](https://github.com/DevDudeJeremy/warren/releases/tag/v1.0.0)
 
-### 03 / Docs RAG
+### 04 / Docs RAG
 
 **Live embedded case study · Grounded AI**
 
@@ -38,15 +46,13 @@ A citation-grounded assistant using hybrid retrieval to help visitors explore th
 
 [Read the Docs RAG case study](https://devdudejeremy.com/projects/rag-agent/) · [Review the Docs RAG project notes](https://github.com/DevDudeJeremy/docs-rag)
 
-### 04 / Shop Fusion
+More in the workshop: [Shop Fusion](https://github.com/DevDudeJeremy/ecommerce-platform), [Inkstack](https://github.com/DevDudeJeremy/blog), and [the complete public repository catalog](https://github.com/orgs/DevDudeJeremy/repositories).
 
-**Archived reference · Open source · Passing CI**
+## Client sites
 
-An inspectable Django commerce reference spanning catalog, payments, real-time interactions, and deployment configuration.
-
-[Explore the Shop Fusion source](https://github.com/DevDudeJeremy/ecommerce-platform) · [Read the Shop Fusion case study](https://devdudejeremy.com/projects/shop-fusion/) · [Review the Shop Fusion CI run](https://github.com/DevDudeJeremy/ecommerce-platform/actions/runs/27018163095)
-
-More in the workshop: [Inkstack](https://github.com/DevDudeJeremy/blog) and [the complete public repository catalog](https://github.com/orgs/DevDudeJeremy/repositories).
+- **WNC Barber** — the website for two family-owned barber shops in Hendersonville and Asheville, with a page per shop and online booking. [Visit WNC Barber](https://www.wncbarber.com/)
+- **Mills River PTO** — a donated, bilingual school community site with an admin area the volunteer board runs without code. [Visit Mills River PTO](https://millsriverschoolpto.com/) · [Read the Mills River PTO case study](https://devdudejeremy.com/projects/mills-river-pto/)
+- **Mt. Zion Clinic** — a fast, accessible site for a nonprofit health center with three locations. [Visit Mt. Zion Clinic](https://mtzionclinic.org/) · [Read the Mt. Zion Clinic case study](https://devdudejeremy.com/projects/mt-zion-clinic/)
 
 ## What I build
 
@@ -65,9 +71,10 @@ Across all three, accessible delivery, secure defaults, clear evidence, and a du
 <details>
 <summary><strong>Current toolkit</strong></summary>
 
-- **Applications:** Python, Django, JavaScript, TypeScript, React, Next.js, PostgreSQL, REST APIs
-- **AI systems:** hybrid retrieval, knowledge pipelines, AI assistants, and governed AI-assisted development workflows
-- **Delivery:** GitHub Actions, Cloudflare, Vercel, testing, observability, performance, and ongoing maintenance
+- **Applications:** TypeScript, JavaScript, PHP, Python, React, Next.js, Astro, Django, PostgreSQL, MySQL, REST APIs
+- **AI systems:** Claude API, MCP, hybrid retrieval, knowledge pipelines, AI assistants, and governed AI-assisted development workflows
+- **Delivery:** GitHub Actions, Cloudflare, Vercel, SiteGround, testing, observability, performance, and ongoing maintenance
+- **Certification:** [Claude Certified Developer – Foundations (Anthropic)](https://www.credly.com/badges/ef5e9547-7ff1-4ab8-beda-f974ba84fb36/public_url)
 
 </details>
 
