@@ -18,7 +18,7 @@ DevDudeJeremy is Jeremy Warren's independent product engineering practice. I bui
 
 **Live product · Sports analytics**
 
-A sports analytics platform whose forecast model publishes timestamped win probabilities for MMA and college football before each event, then grades every one in public, misses included.
+A sports analytics platform whose forecast model publishes timestamped win probabilities for MMA and college football. It is built to go on the record before each event starts, and its counted reads are graded in public, misses included.
 
 [Visit PropsMath](https://propsmath.com/) · [Read how a PropsMath forecast is built](https://propsmath.com/methodology) · [Open the PropsMath public record](https://propsmath.com/track-record)
 
