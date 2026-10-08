@@ -16,11 +16,11 @@ DevDudeJeremy is Jeremy Warren's independent product engineering practice. I bui
 
 ### 01 / PropsMath
 
-**Live product · Sports analytics**
+**Live product case study · Sports analytics**
 
 A sports analytics platform whose forecast model publishes timestamped win probabilities for MMA and college football. It is built to go on the record before each event starts, and its counted reads are graded in public, misses included.
 
-[Visit PropsMath](https://propsmath.com/) · [Read how a PropsMath forecast is built](https://propsmath.com/methodology) · [Open the PropsMath public record](https://propsmath.com/track-record)
+[Visit PropsMath](https://propsmath.com/) · [Read the PropsMath case study](https://devdudejeremy.com/projects/propsmath/)
 
 ### 02 / Neighborhood Tools
 
@@ -48,11 +48,31 @@ A citation-grounded assistant using hybrid retrieval to help visitors explore th
 
 More in the workshop: [Shop Fusion](https://github.com/DevDudeJeremy/ecommerce-platform), [Inkstack](https://github.com/DevDudeJeremy/blog), and [the complete public repository catalog](https://github.com/orgs/DevDudeJeremy/repositories).
 
-## Client sites
+## Client work
 
-- **WNC Barber** — the website for two family-owned barber shops in Hendersonville and Asheville, with a page per shop and online booking. [Visit WNC Barber](https://www.wncbarber.com/)
-- **Mills River PTO** — a donated, bilingual school community site with an admin area the volunteer board runs without code. [Visit Mills River PTO](https://millsriverschoolpto.com/) · [Read the Mills River PTO case study](https://devdudejeremy.com/projects/mills-river-pto/)
-- **Mt. Zion Clinic** — a fast, accessible site for a nonprofit health center with three locations. [Visit Mt. Zion Clinic](https://mtzionclinic.org/) · [Read the Mt. Zion Clinic case study](https://devdudejeremy.com/projects/mt-zion-clinic/)
+### 01 / WNC Barber
+
+**Live client site case study · Local business**
+
+The website for two family-owned barber shops in Hendersonville and Asheville, with a page per shop and online booking.
+
+[Visit WNC Barber](https://www.wncbarber.com/) · [Read the WNC Barber case study](https://devdudejeremy.com/projects/wnc-barber/)
+
+### 02 / Mills River PTO
+
+**Live client site case study · Donated build**
+
+A bilingual school community site with an admin area the volunteer board runs without code.
+
+[Visit Mills River PTO](https://millsriverschoolpto.com/) · [Read the Mills River PTO case study](https://devdudejeremy.com/projects/mills-river-pto/)
+
+### 03 / Mt. Zion Clinic
+
+**Live client site case study · Nonprofit healthcare**
+
+A fast, accessible site for a nonprofit health center with three locations.
+
+[Visit Mt. Zion Clinic](https://mtzionclinic.org/) · [Read the Mt. Zion Clinic case study](https://devdudejeremy.com/projects/mt-zion-clinic/)
 
 ## What I build
 
