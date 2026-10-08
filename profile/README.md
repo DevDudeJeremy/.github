@@ -38,7 +38,15 @@ A workflow toolkit for Claude Code that packages reusable skills, chained comman
 
 [Explore The Warren source](https://github.com/DevDudeJeremy/warren) · [Review The Warren v1.0 release](https://github.com/DevDudeJeremy/warren/releases/tag/v1.0.0)
 
-### 04 / Docs RAG
+### 04 / agent-core
+
+**Open source · MIT · Agent framework**
+
+The reusable brain for on-site AI agents: a streaming Claude tool-use loop, hybrid retrieval, tools that can be held for a human's approval, and an HTTP/SSE API for a chat widget. Its test suite runs with no API keys, no network and no database.
+
+[Explore the agent-core source](https://github.com/DevDudeJeremy/agent-core) · [Read the agent-core spec](https://github.com/DevDudeJeremy/agent-core/blob/main/docs/SPEC.md)
+
+### 05 / Docs RAG
 
 **Live embedded case study · Grounded AI**
 
