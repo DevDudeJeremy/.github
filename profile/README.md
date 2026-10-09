@@ -44,7 +44,7 @@ A workflow toolkit for Claude Code that packages reusable skills, chained comman
 
 The reusable brain for on-site AI agents: a streaming Claude tool-use loop, hybrid retrieval, tools that can be held for a human's approval, and an HTTP/SSE API for a chat widget. Its test suite runs with no API keys, no network and no database.
 
-[Explore the agent-core source](https://github.com/DevDudeJeremy/agent-core) · [Read the agent-core spec](https://github.com/DevDudeJeremy/agent-core/blob/main/docs/SPEC.md)
+[Explore the agent-core source](https://github.com/DevDudeJeremy/agent-core) · [Read the agent-core case study](https://devdudejeremy.com/projects/agent-core/) · [Read the agent-core spec](https://github.com/DevDudeJeremy/agent-core/blob/main/docs/SPEC.md)
 
 ### 05 / Docs RAG
 
