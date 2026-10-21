@@ -10,7 +10,7 @@ DevDudeJeremy is Jeremy Warren's independent product engineering practice. I bui
   <strong>Product systems</strong> · <strong>Grounded AI</strong> · <strong>Accessible delivery</strong>
 </p>
 
-<img src="./assets/devdudejeremy-hero.svg" alt="DevDudeJeremy editorial linocut masthead in warm white, black, and crimson" width="1600" height="540">
+<img src="./assets/devdudejeremy-hero.svg" alt="DevDudeJeremy masthead with the circular crimson mountain mark, in warm white, black, and crimson" width="1600" height="540">
 
 ## Selected systems
 
