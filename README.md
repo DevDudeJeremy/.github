@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/devdudejeremy-hero.svg" alt="DevDudeJeremy masthead with the circular crimson mountain mark, in warm white, black, and crimson" width="100%">
+  <img src="profile/assets/devdudejeremy-hero-v2.png" alt="DevDudeJeremy masthead with the circular crimson mountain mark, in warm white, black, and crimson" width="100%">
 </p>
 
 # DevDudeJeremy on GitHub
