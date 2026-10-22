@@ -10,7 +10,7 @@ DevDudeJeremy is Jeremy Warren's independent product engineering practice. I bui
   <strong>Product systems</strong> · <strong>Grounded AI</strong> · <strong>Accessible delivery</strong>
 </p>
 
-<img src="./assets/devdudejeremy-hero-v2.png" alt="DevDudeJeremy masthead with the circular crimson mountain mark, in warm white, black, and crimson" width="1600" height="540">
+<img src="./assets/devdudejeremy-hero-v3.png" alt="DevDudeJeremy hero with the circular code-mountains mark, DevDudeJeremy LLC, Hendersonville, NC, and devdudejeremy.com" width="1600" height="600">
 
 ## Selected systems
 
