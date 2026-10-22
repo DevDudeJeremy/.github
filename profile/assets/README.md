@@ -4,5 +4,7 @@ The DevDudeJeremy name, mark, and derived presentation graphics in this director
 
 - `devdudejeremy-mark.png` is the supplied source mark.
 - `devdudejeremy-mark.svg` is a deterministic vector adaptation for responsive rendering.
-- `devdudejeremy-hero.svg` is the organization-profile masthead, with the wordmark and the circular mark.
+- `devdudejeremy-hero-v3.png` is the organization-profile masthead, 3200 × 1200.
+- `devdudejeremy-hero-v3.svg` is the vector source for that masthead.
+- `devdudejeremy-hero.svg` is the previous masthead.
 - `devdudejeremy-social.png` is the 1280 × 640 social-preview render.
